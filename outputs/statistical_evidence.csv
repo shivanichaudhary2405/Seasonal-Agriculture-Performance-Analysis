@@ -1,0 +1,14 @@
+Claim tested,Test,Statistic,p-value,Effect size (η²),Conclusion
+Rainfall differs by season,Kruskal-Wallis,2599.67,0.00e+00,0.6499,SUPPORTED
+Temperature differs by season,Kruskal-Wallis,2385.97,0.00e+00,0.5964,SUPPORTED
+Disease/pest risk differs by season,Kruskal-Wallis,1430.91,1.91e-311,0.3575,SUPPORTED
+Loss-making share differs by season,Chi-square,92.65,7.62e-21,0.1522,SUPPORTED
+Crop-relative YIELD differs by season,Kruskal-Wallis,254.11,6.62e-56,0.0631,SUPPORTED
+Revenue per hectare differs by season,Kruskal-Wallis,108.25,3.12e-24,0.0266,SUPPORTED
+Profit per hectare differs by season,Kruskal-Wallis,97.13,8.10e-22,0.0238,SUPPORTED
+Water efficiency differs by season,Kruskal-Wallis,56.81,4.61e-13,0.0137,SUPPORTED
+Seed quality differs by season,Kruskal-Wallis,9.88,7.17e-03,0.002,SUPPORTED
+Cost per hectare differs by season,Kruskal-Wallis,5.02,8.12e-02,0.0008,not supported
+Water applied per ha differs by season,Kruskal-Wallis,3.25,1.96e-01,0.0003,not supported
+Fertiliser use differs by season,Kruskal-Wallis,1.06,5.89e-01,-0.0002,not supported
+Market price differs by season,Kruskal-Wallis,0.13,9.36e-01,-0.0005,not supported

@@ -1,0 +1,16 @@
+,coef,se,t,significant
+Rain2,-0.9609,0.0633,-15.1755,True
+Disease_Pest_Risk_pct,-0.0371,0.0264,-1.404,False
+Sunlight_Hours_Day,-0.0256,0.0162,-1.581,False
+Soil_pH,-0.0153,0.0149,-1.0269,False
+Pesticide_Litre_ha,-0.015,0.0193,-0.7788,False
+Fertilizer_kg_ha,-0.0097,0.0148,-0.6561,False
+Seed_Quality_Score,0.008,0.0149,0.536,False
+Avg_Temperature_C,0.0091,0.0158,0.5766,False
+Water_per_Ha,0.0214,0.0149,1.4407,False
+Potassium_kg_ha,0.0306,0.0148,2.0583,True
+Humidity_pct,0.0506,0.0197,2.5676,True
+Soil_Moisture_pct,0.0661,0.0181,3.6621,True
+Phosphorus_kg_ha,0.0701,0.0148,4.7193,True
+Nitrogen_kg_ha,0.1062,0.0148,7.1528,True
+Rainfall_mm,1.0953,0.0654,16.7586,True
